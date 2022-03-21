@@ -2,6 +2,7 @@
 description = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen."
 layout = "blocks"
 title = "Team"
+ogimage = "/images/team/image222.webp"
 translationKey = "team"
 [header]
 background = "default"

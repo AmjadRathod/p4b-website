@@ -2,6 +2,7 @@
 description = "Geo Open Accessibility Tool (GOAT) ist ein Open-Source-Webtool zur Erreichbarkeitsplanung mit Fokus auf Nachhaltigkeit."
 layout = "blocks"
 title = "Was ist GOAT?"
+ogimage = "/images/title_street.webp"
 translationKey = "what-is-goat"
 [header]
 background = "default"

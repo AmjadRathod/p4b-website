@@ -3,6 +3,8 @@ description = "You can find here all live versions of our planning tool GOAT tha
 layout = "blocks"
 title = "GOAT-live"
 translationKey = "goat-live"
+ogimage = "/images/title_street.webp"
+
 [header]
 background = "default"
 background_image = ""

@@ -1,6 +1,8 @@
 +++
 layout = "blocks"
 title = "Web GIS"
+ogimage = "/images/title_street.webp"
+description = "Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität und lebenswerter Räume. Faktenbasierte Planungshilfen für den Fuß- und Radverkehr."
 translationKey = "web-gis"
 [header]
 background = "default"

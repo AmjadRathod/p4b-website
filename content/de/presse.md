@@ -1,7 +1,8 @@
 +++
-description = ""
+description = "Hier finden Sie unser Media-Kit, Unternehmensinformationen sowie Pressemitteilungen über uns."
 layout = "blocks"
 title = "Presse"
+ogimage = "/images/presse/presse_banner.webp"
 translationKey = "presse"
 [header]
 background = "default"

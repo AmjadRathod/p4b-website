@@ -1,8 +1,9 @@
 +++
-description = ""
+description = "Here you will find our press kit, company information as well as all articles about us."
 layout = "blocks"
 title = "Press"
 translationKey = "presse"
+ogimage = "/images/presse/presse_banner.webp"
 [header]
 background = "default"
 background_image = "/images/presse/presse_banner.webp"

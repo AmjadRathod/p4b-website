@@ -1,5 +1,7 @@
 ---
 title: Plan sustainable cities and regions
+ogimage: /images/index/heatmap-muc-1.webp
+description: Digital planning support systems to shape sustainable mobility and liveable spaces.
 layout: blocks
 header:
   layout: left
@@ -144,6 +146,4 @@ blocks:
   - logo: "/images/index/BMDV_Logo.webp"
     text: 'Gefördert durch:'
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
-description: Digital planning support systems to shape sustainable mobility and liveable spaces.
-
 ---

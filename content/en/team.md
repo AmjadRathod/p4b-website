@@ -3,6 +3,8 @@ description = "We are a diverse team of Environmental Engineers, GIS Developers,
 layout = "blocks"
 title = "Team"
 translationKey = "team"
+ogimage = "/images/team/image222.webp"
+
 [header]
 background = "default"
 background_image = ""

@@ -1,8 +1,10 @@
 +++
-description = ""
 layout = "blocks"
 title = "Competences Overview"
+ogimage = "/images/title_street.webp"
+description = "Digital planning support systems to shape sustainable mobility and liveable spaces."
 translationKey = "competences-overview"
+
 [header]
 background = "default"
 background_image = "/images/title_street.webp"

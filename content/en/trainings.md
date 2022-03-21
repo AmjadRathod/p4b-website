@@ -1,6 +1,7 @@
 +++
 layout = "blocks"
 title = "Trainings"
+ogimage = "/images/title_street.webp"
 translationKey = "trainings"
 [header]
 background = "default"
